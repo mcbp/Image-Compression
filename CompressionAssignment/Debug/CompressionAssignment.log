@@ -1,0 +1,13 @@
+﻿  driver.cpp
+e:\image analysis\c2\compressionassignment\compressionassignment\driver.cpp(49): warning C4018: '<': signed/unsigned mismatch
+e:\image analysis\c2\compressionassignment\compressionassignment\driver.cpp(53): warning C4018: '<': signed/unsigned mismatch
+e:\image analysis\c2\compressionassignment\compressionassignment\driver.cpp(57): warning C4018: '<': signed/unsigned mismatch
+e:\image analysis\c2\compressionassignment\compressionassignment\driver.cpp(68): warning C4018: '<': signed/unsigned mismatch
+e:\image analysis\c2\compressionassignment\compressionassignment\driver.cpp(73): warning C4018: '<': signed/unsigned mismatch
+e:\image analysis\c2\compressionassignment\compressionassignment\driver.cpp(81): warning C4018: '<': signed/unsigned mismatch
+e:\image analysis\c2\compressionassignment\compressionassignment\driver.cpp(110): warning C4018: '<': signed/unsigned mismatch
+e:\image analysis\c2\compressionassignment\compressionassignment\driver.cpp(113): warning C4018: '<': signed/unsigned mismatch
+e:\image analysis\c2\compressionassignment\compressionassignment\driver.cpp(116): warning C4018: '<': signed/unsigned mismatch
+e:\image analysis\c2\compressionassignment\compressionassignment\driver.cpp(175): warning C4018: '<': signed/unsigned mismatch
+  CompressionAssignment.vcxproj -> E:\Image Analysis\C2\CompressionAssignment\Debug\CompressionAssignment.exe
+  CompressionAssignment.vcxproj -> E:\Image Analysis\C2\CompressionAssignment\Debug\CompressionAssignment.pdb (Full PDB)
